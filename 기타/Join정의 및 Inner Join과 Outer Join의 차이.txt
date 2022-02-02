@@ -1,0 +1,8 @@
+++++++++++++++++++++++
+
+- Join이라 함은 DB에서 두 개 이상의 테이블이나 데이터베이스를 연결하는 것을 의미한다.
+
+- TableA 와 TableB가 있을때 두 Table들을 Inner Join 하면 TableA 와 TableB의 교집합을 얻을 수 있다.
+- TableA 와 TableB가 있을때 두 Table들을 Outer Join 하면 TableA 와 TableB의 합집합을 얻을 수 있다.
+
+++++++++++++++++++++++

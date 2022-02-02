@@ -1,0 +1,10 @@
+++++++++++++++++++++++
+
+- TypeScript는 JavaScript 기반의 언어이다.
+- JavaScript는 클라이언트 측 스크립팅 언어 TypeScript는 객체 지향 컴파일 언어이다.
+
+- JavaScript는 웹 개발에 주로 사용되고 웹페이지를 대화식으로 만드는 프로그래밍 언어이다.
+
+- TypeScript는 JavaScript의 상위 집합으로 JavaScript의 모든 기능이 있고, TypeScript 컴파일러를 사용하면 ts(TypeScript)파일을 js(JavaScript) 파일로 쉽게 변환 및 통합할 수 있다.
+
+++++++++++++++++++++++

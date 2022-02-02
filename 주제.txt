@@ -1,0 +1,43 @@
+++++++++++++++++++++++
+
+- (Javascript) let, var, const의 차이점과 호이스팅 (Hoisting)
+- (Javascript) Javascript와 Nodejs의 차이점
+- (Javascript) promise(프로미스)의 개념, 콜백 함수 방식과의 차이점
+- (Javascript) 클로저 (Closure)란?
+
+- (NodeJS) Node.js가 싱글 스레드인지 멀티 스레드인지, Node.js 런타임이 동작하는 방식
+- (NodeJS) Node.js에서 비동기의 개념
+- (NodeJS) Node.js와 웹 브라우저의 차이점
+
+- (HTTP) HTTP와 HTTPS의 차이점
+- (HTTP) CORS란? CORS의 목적이란? NodeJS 기반의 웹 서버에서 CORS를 어떻게 설정하는지
+
+- (React) React 라이브러리에서 제공하는 기본 내장 API 함수 (ex. useEffect, useState)
+- (React) React를 사용하여 웹 프론트엔드를 구축할 때, 상태로 관리해야 하는 데이터의 성질
+
+- (Architect) MVC 패턴
+
+- (Database) ORM이란? Raw Query를 사용하지 않고 ORM을 활용하는 이유
+- (Database) 주요 Key란?
+
+- (API) REST한 API란?
+
+- Get, Post 메소드 차이점
+- ** 브라우저 작동 원리 **
+- React 정의, 장단점
+- Redux 기본개념
+
+- ** Node가 무엇인지 **
+- OOP가 무엇인지
+- 자바스크립트와 타입스크립트 차이?
+- Join이란? Inner Join과 Outer Join의 차이?
+- http 대표 메소드 4가지?
+- ** node.js의 이벤트루프란? **
+- 프로세스와 스레드 차이?
+- Express란?
+- TCP와 UDP의 차이점?
+- 자료구조에서 Binary Tree의 3가지 종류와 특징
+- http 상태코드의 200대 300대 400대 500대 마다 각각 어떤목적을 가진 응답코드인지?
+- 세션과 쿠키란?
+
+++++++++++++++++++++++
