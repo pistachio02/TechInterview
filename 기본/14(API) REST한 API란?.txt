@@ -1,7 +1,9 @@
 ++++++++++++++++++++++
 
 - REST API에서 REST는 “Representational State Transfer”의 약자이다.
+
 - REST API는 웹에서 사용되는 데이터나 자원을 HTTP URI로 표현하고, HTTP 프로토콜을 통해 요청과 응답을 정의하는 방식을 말합니다.
+
     - HTTP URI(Uniform Resource Identifier)란 통합 자원 식별자로서 인터넷에 있는 자원을 나타내는 유일한 주소, 즉 쉽게 말해 우리가 흔히 사용하는 인터넷 주소를 의미한다.
     - HTTP 프로토콜이란 인터넷상에서 데이터를 주고 받기 위한 서버/클라이언트 모델을 따르는 프로토콜을 의미합니다.
 
