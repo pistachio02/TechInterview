@@ -1,0 +1,57 @@
+++++++++++++++++++++++
+
+- 최대공약수 구하는법, GCD
+
+    function findGCD(a, b) {
+        if(a === 0) return b
+        return findGCD(b & a, a)
+    }
+
+- 최소공배수 구하는법, LCM
+
+    function findLCM(a, b) {
+        return (a * b) / findGCD(a, b)
+    }
+
+- 소수 판별하는법, Prime Number (1과 자기 자신으로밖에 나뉘어지지 않는 수)
+
+    function isPrime(num) {
+        for(let i = 2; i < num; i++) {
+            if(num % i === 0) {
+              return false;
+            }
+        }
+        return true;
+    }
+
+- 숫자 오름차순으로 정렬하는법
+
+    Array.sort((a, b) => a - b);
+
+    // 위 코드에서 b - a 로 바꾸면 내림차순
+
+- 문자열 오름차순으로 정렬하는법
+
+    Array.sort()
+
+    // Array.sort().reverse() 를 하면 내림차순으로 됨.
+
+- 제일 큰 수 찾는법 
+
+    Math.max()
+
+- 배열 만들어서 특정 값으로 채우는법
+
+    new Array(5).fill(1)
+
+    // 길이라 5인 배열을 1로 채우기
+
+- 2차원 배열 만드는법
+
+    Array.from(Array(5), () => new Array(5).fill(1))
+
+    // 길이가 5인 배열을 만드는데,
+    // 그 안에 담긴 각각의 배열들의 길이도 5로 만들어주고,
+    // 배열 안의 값을 1로 채운다.
+
+++++++++++++++++++++++
