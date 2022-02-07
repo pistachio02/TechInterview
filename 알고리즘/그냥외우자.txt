@@ -4,7 +4,7 @@
 
     function findGCD(a, b) {
         if(a === 0) return b
-        return findGCD(b & a, a)
+        return findGCD(b % a, a)
     }
 
 - 최소공배수 구하는법, LCM
